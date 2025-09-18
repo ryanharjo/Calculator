@@ -11,3 +11,19 @@ C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo
 C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfoInputs.cache
 C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfo.cs
 C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.csproj.CoreCompileInputs.cache
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.Form1.resources
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.csproj.GenerateResource.cache
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfoInputs.cache
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfo.cs
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.csproj.CoreCompileInputs.cache
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\bin\Debug\net8.0-windows\Calculator_RyanHarjo.exe
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\bin\Debug\net8.0-windows\Calculator_RyanHarjo.deps.json
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\bin\Debug\net8.0-windows\Calculator_RyanHarjo.runtimeconfig.json
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\bin\Debug\net8.0-windows\Calculator_RyanHarjo.dll
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\bin\Debug\net8.0-windows\Calculator_RyanHarjo.pdb
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.dll
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\refint\Calculator_RyanHarjo.dll
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.pdb
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.genruntimeconfig.cache
+C:\Users\RyanHarjo\Downloads\Calculator_RyanHarjo (1)\Calculator_RyanHarjo\obj\Debug\net8.0-windows\ref\Calculator_RyanHarjo.dll
