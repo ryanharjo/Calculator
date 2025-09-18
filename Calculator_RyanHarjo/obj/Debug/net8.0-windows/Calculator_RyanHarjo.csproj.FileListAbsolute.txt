@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\C# Program Projects\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.CalculatorApp.Form1.resources
+C:\Users\Student\Desktop\C# Program Projects\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\C# Program Projects\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\C# Program Projects\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\C# Program Projects\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfo.cs
+C:\Users\Student\Desktop\C# Program Projects\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C# Program Projects\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.Form1.resources
+C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.Form1.resources
+C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.AssemblyInfo.cs
+C:\Users\Student\OneDrive - Green Country Technology Center\Calculator_RyanHarjo\obj\Debug\net8.0-windows\Calculator_RyanHarjo.csproj.CoreCompileInputs.cache
